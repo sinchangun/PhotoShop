@@ -25,7 +25,12 @@
 - space bar + 화면 드래그
 
 # 선택영역 없애기 
-- Marquee Tool을 없애려면 crtl + d 
+- Marquee Tool을 없애려면 crtl + d
+
+# 레이어 마스크 
+![image](https://github.com/sinchangun/PhotoShop/assets/145514301/934ac5c6-5227-48d6-b0be-807d02c7b955)
+# alt + 레이어마스크를 클릭하면 반전으로 나오고
+# 이미 만들어진 레이어 마스크의 칼라를 반전 시킬려면 crtl + i 
 
 
 
